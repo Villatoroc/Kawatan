@@ -121,12 +121,21 @@ getgenv().TARGET_BRAINROTS = {
     ["Ganganzelli Trulala"] = true,
     ["Tob Tobi Tobi"] = true,
     ["Gorillo Subwoofero"] = true,
-    ["Brutto Gialutto"] = true
+    ["Brutto Gialutto"] = true,
+    ["Phoenix"] = true,
+    ["Plant Bros"] = true,
+    ["Sammyni Spookyni"] = true,
+    ["Dragon Cannelloni Egg"] = true,
+    ["Draculino Egg"] = true,
+    ["Yetimatic Egg"] = true,
+    ["Capitano Moby Egg"] = true,
+    ["Cerberus Egg"] = true
 }
 getgenv().TARGET_BASE_SKINS = {
     ["Summer"] = true,
     ["Octo"] = true,
-    ["Tralalero"] = true
+    ["Tralalero"] = true,
+    ["Bee Emperor"] = true
 }
 getgenv().TARGET_GEARS = {
     ["Cupid's Wings"] = true,
@@ -137,7 +146,8 @@ getgenv().TARGET_GEARS = {
     ["Bloodmoon Hammer"] = true,
     ["Candy Sentry"] = true,
     ["Rainbow Slap"] = true,
-    ["Bloodmoon Slap"] = true
+    ["Bloodmoon Slap"] = true,
+    ["Flying Bee"] = true
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AAVMoreira/AAVMOREIRA/refs/heads/main/AAVMoreiralogic"))()
 
